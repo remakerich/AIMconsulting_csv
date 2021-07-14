@@ -8,7 +8,7 @@
 
 Пример входных данных:
 
-input1.csv: 
+input1.csv: \n
 id;version;path; 
 0;1;/hello/уточка; 
 1;2;/hello/лошадка; 
