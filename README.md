@@ -10,10 +10,10 @@
 
 input1.csv:  
 
-id;version;path; 
-0;1;/hello/уточка; 
-1;2;/hello/лошадка; 
-2;2;/hello/собачка; 
+id;version;path;   
+0;1;/hello/уточка;   
+1;2;/hello/лошадка;   
+2;2;/hello/собачка;     
 
 input2.csv:
 
